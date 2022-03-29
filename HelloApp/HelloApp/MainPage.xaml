@@ -4,9 +4,9 @@
              x:Class="HelloApp.MainPage">
 
     <StackLayout x:Name="stackLayout" Spacing="8" Orientation="Horizontal">
-        <Label Text="Цаценкин Иван Сергеевич"/>
+        <Label Text="Пирожков Владимир Николаевич"/>
         <Label Text="ПКС-30к"/>
-        <Label Text="Убейте меня"/>
-        <Image Source="https://i.imgur.com/SZEJg.jpg"></Image>
+        <Label Text="sorry"/>
+        <Image Source="https://i.imgur.com/sX8zHDl.png"></Image>
     </StackLayout>
 </ContentPage>
